@@ -32,3 +32,5 @@ Feel free to reach out!
 
 - 💼 LinkedIn: [linkedin.com/in/adam-janikowski](https://www.linkedin.com/in/adam-janikowski/)
 - 📧 Email: [adam.janikowski99@gmail.com](mailto:adam.janikowski99@gmail.com) 
+
+Cheers!
