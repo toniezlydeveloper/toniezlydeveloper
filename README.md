@@ -1,4 +1,4 @@
-#Hey there 👋
+##Hey there 👋
 
 Welcome to my GitHub — think of it as a small tech demo!
 
