@@ -1,4 +1,4 @@
-Hey there 👋
+#Hey there 👋
 
 Welcome to my GitHub — think of it as a small tech demo!
 
@@ -10,7 +10,7 @@ Projects you'll find there, listed by relevance:
 
 These were created for presentation, but they should give you a good feel for how I work as a developer.
 
-<br><br>
+---
 
 In my professional work, I’ve helped develop, optimize, and release:
 - Metaverse for PC, Mobile, VR & Web
@@ -21,7 +21,7 @@ Want to see some of these projects? 👉 [adam-janikowski.netlify.app](https://a
 
 > 🔒 Note: The site shows only a selection of projects I’m allowed to share — there’s more behind the scenes.
 
-<br><br>
+---
 
 By the way, aside from coding, I’m also into **calisthenics**, **piano**, and **electronics**.
 
