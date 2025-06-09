@@ -1,4 +1,4 @@
-## Hey there 👋
+Hey there 👋
 
 Welcome to my GitHub — think of it as a small tech demo!
 
@@ -10,28 +10,25 @@ Here’s a selection of personal projects, listed by relevance:
 
 These were created for presentation, but they should give you a good feel for how I work as a developer.
 
----
 
-Aside from coding, I’m also into **calisthenics**, **piano**, and **electronics**.
-
----
 
 In my professional work, I’ve helped develop, optimize, and release:
 - Metaverse for PC, Mobile, VR & Web
 - Games for PC & Mobile
 - Applications for Mobile
 
-Want to see some of these projects?
-👉 [adam-janikowski.netlify.app](https://adam-janikowski.netlify.app/)
+Want to see some of these projects? 👉 [adam-janikowski.netlify.app](https://adam-janikowski.netlify.app/)
 
 > 🔒 Note: The site shows only a selection of projects I’m allowed to share — there’s more behind the scenes.
 
----
 
-Feel free to reach out!
 
+By the way, aside from coding, I’m also into **calisthenics**, **piano**, and **electronics**.
+
+And if you want to get in touch with me, you can contact me by:
 - 💼 LinkedIn: [linkedin.com/in/adam-janikowski](https://www.linkedin.com/in/adam-janikowski/)
 - 📧 Email: [adam.janikowski99@gmail.com](mailto:adam.janikowski99@gmail.com) 
+
 
 
 Cheers!
