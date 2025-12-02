@@ -6,7 +6,7 @@ I keep most of my projects private, but here you’ll find a select few that mig
     
 2.  **Internal:** A collection of reusable systems for my personal Unity projects
     
-3.  **Charm:** A set of simple mechanics built with Unreal Engine’s Gameplay Ability System
+3.  **Teahouse Remastered:** A game about running your own teahouse with Overcooked-like tea preparation and Sims-like room building
     
 
 It’s not much, but I believe it’s enough.
